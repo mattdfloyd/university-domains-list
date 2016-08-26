@@ -65564,5 +65564,12 @@
         "name": "The College At Southeastern",
         "web_page": "http://www.collegeatsoutheastern.com"
   },
+  {
+        "alpha_two_code": "US",
+        "country": "United States",
+        "domain": "dmu.edu",
+        "name": "Des Moines University",
+        "web_page": "https://www.dmu.edu"
+  },
 ]
   
